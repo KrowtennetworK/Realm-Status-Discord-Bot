@@ -1,0 +1,20 @@
+{
+  "name": "wow-status-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "mysql2": "^3.16.2",
+    "node-fetch": "^3.3.2",
+    "rcon-client": "^4.2.5",
+    "systeminformation": "^5.30.6"
+  }
+}
